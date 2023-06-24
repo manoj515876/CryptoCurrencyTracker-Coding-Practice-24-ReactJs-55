@@ -1,0 +1,39 @@
+.list-card {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 46px;
+}
+
+.image {
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.first-card {
+  display: flex;
+  align-items: center;
+}
+
+.first-heading {
+  color: #ffffff;
+  font-family: Roboto;
+}
+
+.last-card {
+  display: flex;
+  align-items: flex-start;
+  padding-right: 40px;
+}
+
+.last-para {
+  color: #ffffff;
+  font-family: Roboto;
+  padding-left: 30px;
+}
+
+.last-des {
+  color: #ffffff;
+  font-family: Roboto;
+  text-align: right;
+}
